@@ -21,7 +21,7 @@ This is a simple web application for submitting form data and managing it with a
 ## Installation
 
 1. Clone the repository:
-    git clone [https://github.com/acephasanudin/your-repository.git](https://github.com/your-username/your-repository.git)
+    git clone [https://github.com/acephasanudin/simple-form-node-html](https://github.com/acephasanudin/simple-form-node-html)
 
 2. Navigate to the project directory:
     cd simple-form-node-html
